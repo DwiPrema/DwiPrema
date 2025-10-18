@@ -1,6 +1,6 @@
 <!-- 👋 Hi there -->
 <h1 align="center">Hi 👋, I'm <span style="color:#8A2BE2;">Dwi Premayasa</span></h1>
-<h3 align="center">💻 Passionate Software Engineering Student from Indonesia 🇮🇩</h3>
+<h3 align="center">💻 Passionate Software Engineering Student from Indonesia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DwiPrema&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
