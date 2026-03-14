@@ -48,7 +48,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### State Management
-![BLoC](https://img.shields.io/badge/BLoC_State_Management-02569B?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-State_Management-0175C2?style=for-the-badge) </br>
+![Riverpod](https://img.shields.io/badge/Riverpod-State_Management-42A5F5?style=for-the-badge) </br>
+![BLoC](https://img.shields.io/badge/BLoC-State_Management-02569B?style=for-the-badge)
 
 #### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -79,6 +81,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
